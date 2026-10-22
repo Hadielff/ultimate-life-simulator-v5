@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Ultimate Life Simulator: Beyond Reality",
+  "short_name": "Ultimate Life",
+  "description": "Simulador de vida interativo com família, carreira, escolhas e encontros.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0b14",
+  "theme_color": "#171321",
+  "icons": [
+    {
+      "src": "./icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

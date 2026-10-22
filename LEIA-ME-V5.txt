@@ -1,0 +1,25 @@
+ULTIMATE LIFE SIMULATOR: BEYOND REALITY — V5
+
+ARQUIVOS
+- index.html: jogo, interface, Cena Real e sistema vampírico.
+- service-worker.js: cache offline V5.
+- manifest.webmanifest: metadados da aplicação instalável.
+- icon-192.svg e icon-512.svg: ícones.
+- 100-novas-ideias-v4.txt: catálogo anterior de ideias; é referência de design, não uma lista de funcionalidades implementadas.
+
+NOVIDADES V5 INCORPORADAS AO CÓDIGO
+- Abas Cena Real e Vampiros integradas à navegação.
+- Mapa de exploração clicável com sala, cozinha, quintal, lagoa e floresta; a posição do marcador muda conforme o local selecionado.
+- Interações de família, alimentos específicos da geladeira, descanso, observação da lagoa, pesca simulada, pistas, ruínas e criaturas.
+- Diário de exploração persistente junto ao salvamento da vida.
+- Transformação vampírica no modo Fantasia a partir dos 16 anos, linhagem, essência, três missões e habilidades.
+- Progressão vampírica até 1.000 anos, sujeita à sobrevivência e à essência; vidas humanas mantêm o limite de 110 anos.
+- Catálogo de 100 arquétipos de acontecimento combináveis com fase da vida, contexto e escolhas; o catálogo oferece candidatos por idade, não 100 textos escritos à mão para cada idade.
+- Registro de acontecimentos recentes para reduzir repetições imediatas.
+- Compatibilidade com a chave de salvamento anterior ulsbr_save e com o modo offline.
+
+IMPORTANTE
+Cena Real nesta versão é uma exploração 2D interativa dentro do navegador, não um ambiente 3D. Os acontecimentos são montados a partir de arquétipos e contexto; esta versão não contém 100.000 narrativas únicas escritas individualmente.
+
+ATUALIZAÇÃO
+Envie os arquivos do ZIP para a raiz do repositório GitHub Pages atual, substituindo os arquivos com o mesmo nome. Não apague os dados do site nem o repositório de backup. Como a versão do service worker mudou para V5, recarregue o site após a publicação.

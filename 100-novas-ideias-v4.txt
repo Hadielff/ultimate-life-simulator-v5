@@ -1,0 +1,105 @@
+ULTIMATE LIFE SIMULATOR: BEYOND REALITY
+100 novas ideias de design e funcionamento — V4
+
+Catálogo de expansão do projeto. As ideias são especificações para orientar o desenvolvimento; não significa que cada item já exista como funcionalidade pronta. As correções destacadas no registro da V4 foram incorporadas ao código e precisam ser verificadas no navegador real.
+
+001. Proporções corporais distintas para bebês, crianças, adolescentes, adultos e idosos.
+002. Escala de cabeça proporcional à idade.
+003. Corpos infantis visivelmente menores que corpos adultos.
+004. Retratos vetoriais leves e compatíveis com modo offline.
+005. Identidade visual persistente para cada NPC.
+006. Gênero visual consistente com os dados da personagem.
+007. Variação de tons de pele.
+008. Variação de cores e estilos de cabelo.
+009. Variação de cores dos olhos.
+010. Envelhecimento gradual dos retratos dos NPCs.
+011. Roupas adequadas à fase da vida.
+012. Acessórios opcionais nos retratos.
+013. Prévia de aparência antes de aplicar.
+014. Persistência da aparência após salvar e carregar.
+015. Cartões de retrato nas mensagens familiares.
+016. Cartões de retrato nos encontros com amigos.
+017. Retratos na lista de relações.
+018. Retratos em notificações narrativas relevantes.
+019. Parentesco consistente em toda a interface.
+020. Idades de NPCs avançam junto com o tempo da vida.
+021. Profissões compatíveis com a idade.
+022. Bloqueio de spam em ações que concedem atributos.
+023. Limite de uma ação de estudo por idade.
+024. Limite de uma rotina por idade.
+025. Debounce contra toques duplicados.
+026. Cada escolha só pode ser processada uma vez.
+027. Atributos numéricos sempre dentro de limites definidos.
+028. Validação de idade mínima para atividades.
+029. Validação de saldo antes de compras.
+030. Confirmação de decisões caras.
+031. Consequências numéricas ocultas antes da escolha.
+032. Resultados narrativos após a decisão.
+033. Consequências dependentes do contexto.
+034. Prevenção de repetição excessiva de eventos.
+035. Histórico indexado por idade e ano.
+036. Busca de memórias por nome.
+037. Busca de memórias por local.
+038. Linha do tempo de marcos importantes.
+039. Registro de promessas.
+040. Lista de compromissos pendentes.
+041. Notificações que podem ser resolvidas.
+042. Histórico de mudanças de relação.
+043. Personalidade persistente para cada NPC.
+044. Interesses próprios para amigos.
+045. Compatibilidade baseada em interesses.
+046. Rivais com objetivos próprios.
+047. Reconciliações após conflitos.
+048. Convites sociais com contexto.
+049. Mensagens familiares sensíveis ao vínculo.
+050. Conversas adequadas à idade.
+051. Eventos de aniversário.
+052. Árvore familiar visual.
+053. Irmãos com traços distintos.
+054. Prevenção de duplicação imediata de nomes.
+055. Retratos determinísticos pela identidade.
+056. Geração de personagens sem imagens externas.
+057. Música ambiente discreta durante a sessão.
+058. Música iniciada após interação para compatibilidade móvel.
+059. Volume de música separado dos efeitos.
+060. Efeitos suaves para botões.
+061. Sons específicos para escolhas e confirmações.
+062. Sons específicos para erro e aviso.
+063. Controle rápido para silenciar.
+064. Preferências sonoras persistentes.
+065. Limite de repetição de efeitos sonoros.
+066. Modo de animações reduzidas.
+067. Tamanho de texto ampliado.
+068. Botões com áreas de toque confortáveis.
+069. Layout adaptado a telas estreitas.
+070. Diálogos sem rolagem horizontal.
+071. Erros escritos em linguagem simples.
+072. Confirmação opcional para avançar idade.
+073. Salvamento automático após ações importantes.
+074. Exportação de resumo da vida.
+075. Migração compatível com salvamentos antigos.
+076. Valores padrão para novos campos.
+077. Versionamento do formato de salvamento.
+078. Botão de salvamento manual.
+079. Indicador de salvamento local.
+080. Cache offline atualizado por versão.
+081. Atualização do service worker sem cache antigo.
+082. Falha de armazenamento tratada sem travar.
+083. Validação de dados carregados.
+084. Proteção contra texto inserido como HTML.
+085. Consistência entre ficha e histórico.
+086. Modo Realista separado de Fantasia.
+087. Origens fantásticas com regras próprias.
+088. Essência sobrenatural com limites definidos.
+089. Revisão periódica de metas pessoais.
+090. Projetos de longo prazo.
+091. Hobbies que desenvolvem talentos.
+092. Educação com etapas por idade.
+093. Requisitos de formação para carreiras.
+094. Mudanças profissionais com consequências.
+095. Economia pessoal com renda e patrimônio separados.
+096. Moradias com custos validados.
+097. Viagens com custo e destino persistentes.
+098. Cidades consistentes ao longo de uma vida.
+099. Estações e clima contextualizados.
+100. Notícias fictícias com efeitos no mundo.
